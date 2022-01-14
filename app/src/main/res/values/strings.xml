@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My_vk</string>
+    <string name="login_hello">Привет.\nПожалуйста, нажмите Войти, чтобы увидеть ваших друзей.</string>
+    <string name="login_enter">ВОЙТИ</string>
+    <string name="friends_search_hint">Enter your query here</string>
+    <string name="friends_no_items">У вас нет друзей</string>
+    <string name="login_error_credentials">Ошибка при попытке входа</string>
+    <string name="friend_no_city">Город не укакзан</string>
+    <string name="friends_error_loading">Ошибка при загрузке списка друзей</string>
+    <string name="error_internet">У вас нет интернета</string>
+    <string name="logout_enter">ВЫХОД</string>
+    <string name="favourites">Избранное</string>
+    <integer name="com_vk_sdk_AppId">8048398</integer>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
